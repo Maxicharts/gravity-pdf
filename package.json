@@ -1,0 +1,16 @@
+{
+  "name": "maxicharts-gravity-pdf-add-on",
+  "version": "1.0.0",
+  "description": "maxichart add on",
+  "main": "index.js",
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "phantomjs": "^2.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

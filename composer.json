@@ -1,0 +1,5 @@
+{
+    "require": {
+        "phpcasperjs/phpcasperjs": "^1.3"
+    }
+}
